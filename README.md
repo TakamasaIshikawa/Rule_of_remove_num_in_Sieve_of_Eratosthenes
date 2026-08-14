@@ -1,0 +1,1 @@
+# Rule_of_remove_num_in_Sieve_of_Eratosthenes
